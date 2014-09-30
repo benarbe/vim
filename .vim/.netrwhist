@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/home/benarbe/.vim'
+let g:netrw_dirhist_2='/home/benarbe'
+let g:netrw_dirhist_3='/home/benarbe/.adobe'
+let g:netrw_dirhist_4='/home/benarbe'
+let g:netrw_dirhist_5='/home/benarbe/c'
+let g:netrw_dirhist_6='/home/benarbe/c/CH02'
+let g:netrw_dirhist_7='/home/benarbe'
+let g:netrw_dirhist_8='/home/benarbe/c'
+let g:netrw_dirhist_9='/home/benarbe/c/CH01'
